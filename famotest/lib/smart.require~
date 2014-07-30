@@ -1,0 +1,20 @@
+{
+    "underscore": {
+        "bower": "underscore"
+    },
+    "moment": {
+        "git": "https://github.com/moment/moment.git"
+    },
+	"famous": {
+		"git": "https://github.com/Famous/famous.git"
+	},
+	"famous.polyfills": {
+		"git": "https://github.com/Famous/polyfills.git"
+	},
+	"library": {
+		"git": "https://github.com/raix/library.git"
+	},
+	"famous-polyfills": {
+		"alias": "famous.polyfills"
+	}
+}
