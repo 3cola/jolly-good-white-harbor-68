@@ -1,0 +1,53 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "translation": {},
+      "iron-router": {},
+      "bootstrap3-less": {},
+      "translation-admin": {}
+    },
+    "packages": {
+      "translation": {
+        "git": "https://github.com/djedi23/meteor-translation.git",
+        "tag": "v0.1.0",
+        "commit": "19fdf30b482da48193f6034530754e24828bb4a6"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.8.1",
+        "commit": "74e867557fd9cb81173e048e5f81cf4a0a1160a8"
+      },
+      "bootstrap3-less": {
+        "git": "https://github.com/simison/bootstrap3-less",
+        "tag": "v0.2.1",
+        "commit": "dc94a51ed00d7de6d6f2b6d65107a876d849ad61"
+      },
+      "translation-admin": {
+        "git": "https://github.com/djedi23/meteor-translation-admin.git",
+        "tag": "v0.1.0",
+        "commit": "c98e2dee4e45d62c413efb16c7daf567a18a66e7"
+      },
+      "iron-layout": {
+        "git": "https://github.com/EventedMind/iron-layout.git",
+        "tag": "v0.2.0",
+        "commit": "4a2d53e35ba036b0c189c7ceca34be494d4c6c97"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.5",
+        "commit": "273e3ab7d005d91a1a59c71bd224533b4dae2fbd"
+      },
+      "iron-core": {
+        "git": "https://github.com/EventedMind/iron-core.git",
+        "tag": "v0.2.0",
+        "commit": "0e48b5dc50d03f01025b7b900fb5ce2f13d52cad"
+      },
+      "iron-dynamic-template": {
+        "git": "https://github.com/EventedMind/iron-dynamic-template.git",
+        "tag": "v0.2.1",
+        "commit": "4dd1185c4d9d616c9abdb3f33e4a7d5a88db7e18"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "translation": {},
+    "iron-router": {},
+    "bootstrap3-less": {},
+    "translation-admin": {}
+  }
+}
