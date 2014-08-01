@@ -1,32 +1,8 @@
 {
   "packages": {
-    "translation": {
-      "public": {
-          "translation" : {
-              "publish" : "intl",
-              "uiHelper": "_",
-              "session": "lang",
-              "mongoCollection": "intl",
-              "debug": true
-          }
-      }
-  },
+    "translation": {},
     "iron-router": {},
     "bootstrap3-less": {},
-    "translation-admin": {
-      "public": {
-            "translation" : {
-            "admin": {
-            "max_query_size" : 100,
-            "admin_domain": "translation_admin",
-            "use_router" : true,
-            "route_name": "translation_admin",
-            "route_path": "/translation",
-            "route_template_layout": "translation_admin_layout",
-            "route_yieldTemplates", {}
-            }
-        }
-      }
-    }
+    "translation-admin": {}
   }
 }
