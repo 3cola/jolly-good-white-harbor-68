@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/x41/dev/jolly-good-white-harbor-68/test_translation"
+		}
+	]
+,
+      // add this! ternjs object
+      "ternjs": {
+        "libs": ["browser", "underscore", "jquery"],
+        "plugins": {
+          "meteor": {}
+        }
+      }
+    }

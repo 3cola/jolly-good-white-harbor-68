@@ -1,25 +1,17 @@
 
-
 if (Meteor.isClient) {
-
   Template.hello.greeting = function () {
-    return Translation.currentLang();
+    return "Welcome to test_famous-compnents.";
   };
 
   Template.hello.events({
     'click input': function () {
       // template data, if any, is available in 'this'
       if (typeof console !== 'undefined')
-        console.log(Translation._('siteName', 'main'));
-      if (Translation.currentLang() === 'en-US' || Translation.currentLang() === 'en' ) {
-        Translation.currentLang('fr');
-      } else {
-        Translation.currentLang('en');
-      }
+        console.log("You pressed the button");
     }
   });
 }
-
 
 if (Meteor.isServer) {
   Meteor.startup(function () {

@@ -6,9 +6,7 @@
 standard-app-packages
 autopublish
 insecure
+famono
+famous-components
 translation
-iron-router
-less
-bootstrap3-less
 translation-admin
-coffeescript

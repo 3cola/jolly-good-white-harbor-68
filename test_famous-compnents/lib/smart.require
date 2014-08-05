@@ -1,12 +1,7 @@
 {
-    "underscore": {
-        "bower": "underscore"
-    },
-    "moment": {
-        "git": "https://github.com/moment/moment.git"
-    },
 	"famous": {
-		"git": "https://github.com/Famous/famous.git"
+		"git": "https://github.com/raix/famous.git",
+		"branch": "famono"
 	},
 	"famous.polyfills": {
 		"git": "https://github.com/Famous/polyfills.git"
