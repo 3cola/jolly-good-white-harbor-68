@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "famono": {},
+    "celestial": {},
+    "iron-router": {},
+    "translation": {},
+    "translation-admin": {}
+  }
+}

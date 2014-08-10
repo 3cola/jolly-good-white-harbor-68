@@ -1,0 +1,64 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "famono": {},
+      "celestial": {},
+      "iron-router": {},
+      "translation": {},
+      "translation-admin": {}
+    },
+    "packages": {
+      "famono": {
+        "git": "https://github.com/raix/Meteor-famono.git",
+        "tag": "v0.7.3",
+        "commit": "cec0dbd8a5afa561fb65ba86ac02f91ab26b4d98"
+      },
+      "celestial": {
+        "git": "https://github.com/andrewreedy/meteor-celestial.git",
+        "tag": "v0.0.1",
+        "commit": "20f4d22f0355908e115b1d8a7d5810a6115cbe5c"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.8.2",
+        "commit": "05415a8891ea87a00fb1e2388585f2ca5a38e0da"
+      },
+      "translation": {
+        "git": "https://github.com/djedi23/meteor-translation.git",
+        "tag": "v0.1.0",
+        "commit": "19fdf30b482da48193f6034530754e24828bb4a6"
+      },
+      "translation-admin": {
+        "git": "https://github.com/djedi23/meteor-translation-admin.git",
+        "tag": "v0.1.0",
+        "commit": "c98e2dee4e45d62c413efb16c7daf567a18a66e7"
+      },
+      "iron-layout": {
+        "git": "https://github.com/EventedMind/iron-layout.git",
+        "tag": "v0.2.0",
+        "commit": "4a2d53e35ba036b0c189c7ceca34be494d4c6c97"
+      },
+      "bootstrap3-less": {
+        "git": "https://github.com/simison/bootstrap3-less",
+        "tag": "v0.2.1",
+        "commit": "dc94a51ed00d7de6d6f2b6d65107a876d849ad61"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.5",
+        "commit": "273e3ab7d005d91a1a59c71bd224533b4dae2fbd"
+      },
+      "iron-core": {
+        "git": "https://github.com/EventedMind/iron-core.git",
+        "tag": "v0.2.0",
+        "commit": "0e48b5dc50d03f01025b7b900fb5ce2f13d52cad"
+      },
+      "iron-dynamic-template": {
+        "git": "https://github.com/EventedMind/iron-dynamic-template.git",
+        "tag": "v0.2.1",
+        "commit": "4dd1185c4d9d616c9abdb3f33e4a7d5a88db7e18"
+      }
+    }
+  }
+}

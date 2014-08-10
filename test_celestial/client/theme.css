@@ -1,0 +1,39 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+a {
+  color: #fff;
+  border-radius: 15px;
+  border: 1px solid #fff;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  margin-top: 15px;
+}
+
+a:hover {
+  color: #fff;
+}
+
+h1 {
+  margin-top: 30%;
+}
+
+.view1, .view2, .view3 {
+  color: #fff;
+  text-align: center;
+}
+
+.view1 {
+  background: #EA3556;
+}
+
+.view2 {
+  background: #61D2D6;
+}
+
+.view3 {
+  background: #64E952;
+}
